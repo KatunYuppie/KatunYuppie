@@ -27,8 +27,6 @@ Finance & Data Science graduate from the Gies College of Business at the Univers
 
 ### Education & Credentials
 **BS Finance, Minor in Data Science** — Gies College of Business, University of Illinois Urbana-Champaign · GPA 3.80
-CFA Level I Candidate · FINRA SIE
-
 ---
 
 ### GitHub Stats
