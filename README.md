@@ -7,7 +7,8 @@ Finance & Data Science graduate from the Gies College of Business at the Univers
 ---
 
 ### Currently Working On
-- **TNT Newsletter** — global macro research & publishing · [Substack]((https://thenexttrade.substack.com/?utm_campaign=profile_chips))
+- **macro-research** — quantitative tools and research frameworks for global macro analysis · [GitHub](https://github.com/KatunYuppie/macro-research)
+- **The Next Trade Newsletter** — global macro research & publishing · [Substack]((https://thenexttrade.substack.com/?utm_campaign=profile_chips))
 
 ---
 
@@ -16,6 +17,10 @@ Finance & Data Science graduate from the Gies College of Business at the Univers
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![FRED](https://img.shields.io/badge/FRED_API-003087?style=flat&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logoColor=white)
+![yfinance](https://img.shields.io/badge/yfinance-6366F1?style=flat&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
 ---
@@ -27,6 +32,7 @@ Finance & Data Science graduate from the Gies College of Business at the Univers
 
 ### Education & Credentials
 **BS Finance, Minor in Data Science** — Gies College of Business, University of Illinois Urbana-Champaign · GPA 3.80
+CFA Level I Passed
 ---
 
 ### GitHub Stats
@@ -37,4 +43,4 @@ Finance & Data Science graduate from the Gies College of Business at the Univers
 
 ### Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qemal-ramadani-01b2b3271/)
-[![Substack](https://img.shields.io/badge/TNT_Newsletter-FF6719?style=flat&logo=substack&logoColor=white)](https://substack.com/@thenexttrade)
+[![Substack](https://img.shields.io/badge/The_Next_Trade-FF6719?style=flat&logo=substack&logoColor=white)](https://thenexttrade.substack.com/?utm_campaign=profile_chips)
